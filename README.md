@@ -1,8 +1,6 @@
 # Hi 👋, I'm Himanshu Dhakal
 
-### Full-stack Developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LazyHimanshu&label=Profile views&color=0e75b6&style=flat" alt="LazyHimanshu" /> </p>
+### Full-stack Developer focused on building scalable apps and clean user experiences.
 
 - 🔭 I'm currently working on **a React and Next.js Projects**
 
